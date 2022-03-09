@@ -10,4 +10,9 @@
 
 ![database](./.github/images/database.png)
 
-## Depenendencias
+## Dependencias
+
+- express
+- dotenv
+- stripe
+- mongoose
